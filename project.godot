@@ -24,6 +24,10 @@ config/name="GDSerCommDock"
 run/main_scene="res://addons/GDSerCommDock/GDSerCommDock.tscn"
 config/icon="res://icon.png"
 
+[editor_plugins]
+
+enabled=PoolStringArray( "res://addons/GDSerCommDock/plugin.cfg" )
+
 [rendering]
 
 environment/default_environment="res://default_env.tres"
