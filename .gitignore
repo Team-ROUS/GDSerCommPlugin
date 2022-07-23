@@ -7,3 +7,7 @@ Screenshot.png.import
 
 # Mono-specific ignores
 .mono/
+
+# sercomm plugin build dir
+GDSercomm/
+addons/GDSerCommDock/bin/libGDSercomm.dylib
